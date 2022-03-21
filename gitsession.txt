@@ -2,3 +2,5 @@ Welcome to git & github training"
 
 git init
 git status
+
+git reset
