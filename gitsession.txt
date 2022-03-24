@@ -1,6 +1,6 @@
-Welcome to git & github training"
+Welcome to learning tutorials
 
-git init
-git status
+DevOps tech
+AWS
+Azure
 
-git reset
